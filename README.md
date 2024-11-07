@@ -10,7 +10,7 @@ The **User Access Management System** is a web application that enables employee
 
 ### Features
 - Employee access requests for specific software with defined access types.
-- Admin dashboard for managing and processing access requests.
+
 - Database-backed storage for all users, software, and request information.
 - Secure access with role-based access control.
 
