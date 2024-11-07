@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
-- 
+
 
 ### Introduction
 The **User Access Management System** is a web application that enables employees to request access to software systems. Administrators can view, approve, or reject these requests, allowing for controlled access to organizational resources.
