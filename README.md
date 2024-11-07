@@ -17,7 +17,7 @@ The **User Access Management System** is a web application that enables employee
 ### Technologies Used
 - **Backend**: Java Servlets, JDBC
 - **Frontend**: JSP, HTML, CSS
-- **Database**: MySQL
+- **Database**: postgresSQL
 - **Build Tool**: Maven (if used)
 - **Server**: Apache Tomcat
 ### Prerequisites
